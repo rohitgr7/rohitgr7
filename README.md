@@ -12,7 +12,7 @@ I graduated from GGSIPU Delhi and immediately after my graduation I joined my fi
 - Used to particate in [Kaggle competitions](https://kaggle.com/rohitgr).
 - 💬 Ask me anything regarding my work, code and research [here](https://github.com/rohitgr7/rohitgr7/issues) (**Please tag me @rohitgr7 in your comment.**).
 - 📫 How to reach me:
-  - Email: rohitgr@gmail.com
+  - Email: rohitgr1998@gmail.com
   - LinkedIn: [rohitgr7](https://linkedin.com/in/rohitgr7)
   - Twitter: [@imgrohit](https://twitter.com/imgrohit)
 
