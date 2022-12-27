@@ -6,7 +6,6 @@ If you are hiring, feel free to reach out. Here's [my resume](https://github.com
 
 I graduated from GGSIPU Delhi and immediately after my graduation I joined my first organisation, [Episource LLC](https://github.com/EpisourceLLC) as a Data Scientist. Later on I joined [Lightning AI](https://github.com/lightning-AI/) as a Research Engineer. I have a keen interest in machine learning and deep learning research, especially in a field of NLP and Speech.
 
-<br />
 
 - 🔭 I’m currently working with [Curious Machines](https://github.com/curious-Machines-AI) on their stealth product. Also working an ML project as a side-hustle.
 - 🌱 I love to code and contribute to Open Source.
@@ -22,6 +21,7 @@ I graduated from GGSIPU Delhi and immediately after my graduation I joined my fi
 
 [<img align="left" alt="imgrohit | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />](https://twitter.com/imgrohit)
 [<img align="left" alt="rohitgr7 | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://linkedin.com/in/rohitgr7)
+[<img align="left" alt="rohitgr7 | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />](https://github.com/in/rohitgr7)
 
 <br />
 
