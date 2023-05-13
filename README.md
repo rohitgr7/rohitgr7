@@ -34,4 +34,6 @@ I graduated from GGSIPU Delhi and immediately after my graduation I joined my fi
 <br />
 <br />
 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rohitgr7)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitgr7&show_icons=true&locale=en" alt="rohitgr7" />
