@@ -1,8 +1,6 @@
 ## Open to Work
 
-If you are hiring, feel free to reach out. Here's [my resume](https://github.com/rohitgr7/resume/blob/master/Rohit_Data_Scientist.pdf) for reference.
-
-### Hi there, I'm Rohit, ML Engineer focused in NLP research, currently exploring Speech 👋
+### Hi there, I'm Rohit, ML Engineer 👋
 
 I graduated from GGSIPU Delhi and immediately after my graduation I joined my first organisation, [Episource LLC](https://github.com/EpisourceLLC) as a Data Scientist. Later on I joined [Lightning AI](https://github.com/lightning-AI/) as a Research Engineer. I have a keen interest in machine learning and deep learning research, especially in a field of NLP and Speech.
 
